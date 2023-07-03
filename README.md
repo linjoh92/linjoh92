@@ -19,6 +19,8 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+
+
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -51,17 +53,19 @@
 
 </td><td valign="top" width="33%">
 
-<br/>  
 
 
 ### Backend  
+### Backend  
 <div align="center">  
-  
 <a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/NqiGfwN1LVktrPKrSDjWCdWL1B2O8KzPKSmXowT91w8-Z6PUgZgj0qpXIj5AxYPevf3_rB-I=s900-c-k-c0x00ffffff-no-rj" alt="SUpabase" height="50" /></a>  
-
 </div>
-
 </td><td valign="top" width="33%"> 
+
+</td></tr></table>  
+
+<br/>  
+
 
 ## Connect with me  
 <div align="center">
@@ -79,14 +83,27 @@
 </a>  
 </div>  
   
+
 <br/>  
+
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=linjoh92&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+
+## Recent Blog Posts  
+  
+
 <br/>  
+
+  
+
 <br/>  
+
+  
+
 <br/>  
 
 <div align="center"></div>
