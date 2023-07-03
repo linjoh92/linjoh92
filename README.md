@@ -17,7 +17,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
 
@@ -59,8 +58,6 @@
 <a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/NqiGfwN1LVktrPKrSDjWCdWL1B2O8KzPKSmXowT91w8-Z6PUgZgj0qpXIj5AxYPevf3_rB-I=s900-c-k-c0x00ffffff-no-rj" alt="SUpabase" height="50" /></a>  
 </div>
 </td><td valign="top" width="33%"> 
-
-</tr></table>  
 
 <br/>  
 
