@@ -1,25 +1,14 @@
-# <div align="center">Hi 👋, I'm Linn Johansson</div>  
-  
+# <div align="center">Hi, I'm Linn Johansson</div>  
 
-#### I'm a Front End Developer Student at Change Maker Education  
-  
+<p align="center">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20developer-student;Always%20learning%20new%20tech!&font=Pacifico&center=true&width=650&height=120&color=218bff&vCenter=true&size=45%22"></a>
+</p>
 
-- I’m currently learning Supabase  
-  
+## <div align="center"> My Skill Set  
 
-- I'm always interested in new opportunities! Let's talk!  
-  
-
-- I've been freelancing as an Art Director for 10 years  
-  
-
-<br/>  
-
-
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-### Frontend  
+  
+### <div align="center"> Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="HTML5" height="50" /></a>  
@@ -35,10 +24,8 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-### Graphic Design  
+  
+### <div align="center"> Graphic Design</div>
 <div align="center">  
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
@@ -50,55 +37,35 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-### Backend  
+  
+### <div align="center"> Backend  
 <div align="center">  
 <a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://yt3.googleusercontent.com/NqiGfwN1LVktrPKrSDjWCdWL1B2O8KzPKSmXowT91w8-Z6PUgZgj0qpXIj5AxYPevf3_rB-I=s900-c-k-c0x00ffffff-no-rj" alt="SUpabase" height="50" /></a>  
 </div>
-
 
 </td></tr></table>  
 
 <br/>  
 
+## <div align="center"> Github Stats  
+<p align="center">
+<a href="https://github.com/linjoh92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=linjoh92&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="linjoh92's github stats" /></a><a href="https://github.com/linjoh92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjoh92&layout=compact&theme=transparent&hide_border=true" /></a>
+</p>
 
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/linn-johansson-50724167" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Linnj92" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/linjoh" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/linnjoh92" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+## <div align="center"> Connect with me  
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/linn-johansson-50724167/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/linjoh/"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/Linnj92"><img src="https://img.icons8.com/doodle/40/000000/facebook.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/linnjoh92"><img src="https://img.icons8.com/doodle/40/000000/github.png"></a>
+  </div>
+</p>
   
-
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=linjoh92&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
-
- 
-  
-
 <br/>  
-
-  
-
 <br/>  
-
-  
-
 <br/>  
 
 <div align="center"></div>
