@@ -55,14 +55,14 @@ Please have a look at a selection of my school assignment. Follow links to open 
 * [Hangman - Christmas Edition](https://linjoh92.github.io/Hangman-Assigment-3/)
 * [Spotify Top Tracks](https://linjoh92.github.io/Spotify-top-tracks/)
 
-### <div> Learing react
+### <div> Learing React
 * [Fridays are the best](https://react-assignment-3-linjoh92.vercel.app/)
 * [Portfolio](https://react-assignment-5.vercel.app/)
 
 ### <div> Group assigment - WebApp for Skellefteå
 * [Swipe North - Web app](https://swipe-north-2.vercel.app)
 
-### <div> Connect react project to supabase
+### <div> Connect React project to supabase
 * [Blogg - Theme Midsummer](https://my-blog-linjoh92.vercel.app/blog)
 
 ### <div> Group assigment - Environments and github
