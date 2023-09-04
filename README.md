@@ -66,7 +66,7 @@ Please have a look at a selection of my school assignment. Follow links to open 
 * [Blogg - Theme Midsummer](https://my-blog-linjoh92.vercel.app/blog)
 
 ### <div> Group assigment - Environments and github
-* [Never Ending Comment Page](https://dev-team5-iota.vercel.app/)
+* [Never Ending Comment Page](https://team5-iota.vercel.app/)
 
 </td><td valign="top" width="50%">
   
