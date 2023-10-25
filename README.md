@@ -65,8 +65,8 @@ Please have a look at a selection of my school assignment. Follow links to open 
 ### <div> Connect React project to supabase
 * [Blogg - Theme Midsummer](https://my-blog-linjoh92.vercel.app/blog)
 
-### <div> Group assigment - Environments and github
-* [Never Ending Comment Page](https://team5-iota.vercel.app/)
+### <div> Learning Typescript 
+* [Zodiac Page](https://zodiac-page.vercel.app/)
 
 </td><td valign="top" width="50%">
   
