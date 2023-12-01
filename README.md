@@ -67,6 +67,9 @@ Please have a look at a selection of my school assignment. Follow links to open 
 
 ### <div> Learning Typescript 
 * [Zodiac Page](https://zodiac-page.vercel.app/)
+  
+### <div> Optional project to add tests
+* [Create Avatar](https://createavatar.vercel.app/)
 
 </td><td valign="top" width="50%">
   
