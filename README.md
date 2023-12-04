@@ -73,7 +73,7 @@ Please have a look at a selection of my school assignment. Follow links to open 
 ##### <div> My project for others to build
 * [Create Avatar](https://createavatar.vercel.app/)
   
-##### <div> My rectreate - test by @prickar and @freddiekaplan-cme
+##### <div> My ReCreate - test by @prickar and @freddiekaplan-cme
 * [Mood Color](https://mood-color.vercel.app/)
 
 </td><td valign="top" width="50%">
