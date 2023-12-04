@@ -68,8 +68,13 @@ Please have a look at a selection of my school assignment. Follow links to open 
 ### <div> Learning Typescript 
 * [Zodiac Page](https://zodiac-page.vercel.app/)
   
-### <div> Optional project to add tests
+### <div> Optional project to add tests and recreate
+
+##### <div> My project for others to build
 * [Create Avatar](https://createavatar.vercel.app/)
+  
+##### <div> My rectreate - test by @prickar and @freddiekaplan-cme
+* [Mood Color](https://mood-color.vercel.app/)
 
 </td><td valign="top" width="50%">
   
