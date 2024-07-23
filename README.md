@@ -1,9 +1,4 @@
 # <div align="center">Hi, I'm Linn Johansson</div>  
-
-<p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20developer-student;Always%20learning%20new%20tech!&font=Pacifico&center=true&width=650&height=120&color=218bff&vCenter=true&size=45%22"></a>
-</p>
-
 ## <div align="center"> My Skill Set  
 
 <table><tr><td valign="top" width="33%">
