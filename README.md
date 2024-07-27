@@ -1,44 +1,24 @@
-# <div align="center">Hi, I'm Linn Johansson</div>  
-## <div align="center"> My Skill Set  
+## <div align="center">Hi, I'm Linn Johansson</div>  
+I am a junior frontend developer with focused knowledge in React and JavaScript. My background as a graphic designer allows me to create user interfaces and integrate both technical and aesthetic elements.</p>
 
-<table><tr><td valign="top" width="33%">
-  
-### <div align="center"> Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="HTML5" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-  
-### <div align="center"> Graphic Design</div>
-<div align="center">  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://www.adobe.com/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png" alt="Indesign" height="50" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/react-fff?style=for-the-badge&logo=react" />
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js 13-fff?style=for-the-badge&logo=nextdotjs&logoColor=000" />
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-fff?style=for-the-badge&logo=nodedotjs" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-fff?style=for-the-badge&logo=javascript" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-fff?style=for-the-badge&logo=typescript" />
+  <img alt="HTML 5" src="https://img.shields.io/badge/html5-fff?style=for-the-badge&logo=html5" />
+  <img alt="VS Code" src="https://img.shields.io/badge/vs code-fff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img alt="CSS 3" src="https://img.shields.io/badge/css3-fff?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind-fff?style=for-the-badge&logo=tailwindcss" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-fff?style=for-the-badge&logo=figma" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/illustrator-fff?style=for-the-badge&logo=adobeillustrator" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/photoshop-fff?style=for-the-badge&logo=adobephotoshop" />
+  <img alt="Adobe Indesign" src="https://img.shields.io/badge/indesign-fff?style=for-the-badge&logo=adobeindesign" />
+  <img alt="Supabase " src="https://img.shields.io/badge/supabase-fff?style=for-the-badge&logo=supabase" />
+</p>
 
 </td><td valign="top" width="10%">
-  
-### <div align="center"> Backend  
-<div align="center">  
-<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" height="50" /></a>  
-</div>
-</td></tr></table>  
-<br/>  
-
 <table><tr><td valign="top" width="50%">
   
 ## <div align="center"> School project  
