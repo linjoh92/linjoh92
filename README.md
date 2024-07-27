@@ -44,6 +44,9 @@
 ## <div align="center"> School project  
 Please have a look at a selection of my school assignment. Follow links to open in GUI.
 
+### <div> Final Thesis - Event platform
+* [EventHub](https://eventhub-web.vercel.app/)
+
 ### <div> Basics - Html/Css/Java script
 * [Hacéli - Fashion brand](https://linjoh92.github.io/Haceli/)
 * [Portfolio](https://linjoh92.github.io/porfolio/)
