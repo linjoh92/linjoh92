@@ -19,7 +19,7 @@ I am a junior frontend developer with focused knowledge in React and JavaScript.
   <img alt="Supabase " src="https://img.shields.io/badge/supabase-fff?style=for-the-badge&logo=supabase" />
 </p>
 
-## Protfolio project  
+## Portfolio project  
 #### Mockup management page - Employee Dashboard page
 * [Employee Management System](https://employee-management-system-linn.vercel.app/login)
   
