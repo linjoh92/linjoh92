@@ -18,6 +18,10 @@ I am a junior frontend developer with focused knowledge in React and JavaScript.
   <img alt="Adobe Indesign" src="https://img.shields.io/badge/indesign-fff?style=for-the-badge&logo=adobeindesign" />
   <img alt="Supabase " src="https://img.shields.io/badge/supabase-fff?style=for-the-badge&logo=supabase" />
 </p>
+
+## Protfolio project  
+#### Mockup management page - Employee Dashboard page
+* [Employee Management System](https://employee-management-system-linn.vercel.app/login)
   
 ## School project  
 #### Final Thesis - Event platform
