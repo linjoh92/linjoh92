@@ -27,6 +27,9 @@ I am a junior frontend developer with focused knowledge in React and JavaScript.
 #### Final Thesis - Event platform
 * [EventHub](https://eventhub-web.vercel.app/)
 
+#### Group assigment - Homepage - Jolint 
+* [Jolint - Web app](https://jolint-web.vercel.app/)
+
 #### Basics - Html/Css/Java script
 * [Hacéli - Fashion brand](https://linjoh92.github.io/Haceli/)
 * [Portfolio](https://linjoh92.github.io/porfolio/)
