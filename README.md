@@ -21,7 +21,8 @@ I am a junior frontend developer with focused knowledge in React and JavaScript.
 
 ## Portfolio project  
 #### Mockup management page - Employee Dashboard page
-* [Employee Management System](https://employee-management-system-linn.vercel.app/login)
+* [Employee Management System](https://employee-management-system-linn.vercel.app/login)  
+<sub>Log in requirements: [View README](https://github.com/linjoh92/Employee-Management-System#readme)</sub>
   
 ## School project  
 #### Final Thesis - Event platform
