@@ -1,5 +1,5 @@
 # Hi, I'm Linn Johansson
-I am a junior frontend developer with focused knowledge in React and JavaScript. My background as a graphic designer allows me to create user interfaces and integrate both technical and aesthetic elements.</p>
+I am a frontend developer with focused knowledge in React and JavaScript. My background as a graphic designer allows me to create user interfaces and integrate both technical and aesthetic elements.</p>
 
 ## Skill set
 <p>
